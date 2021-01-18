@@ -1,0 +1,39 @@
+exports.info = (id, A187, tampilTanggal, whatsapp, youtube, tampilWaktu, instagram, nomer, aktif) => {
+	return ` 
+❉──────────❉
+
+*🔰_BotAaron_🔰*
+
+❉──────────❉
+
+📆 *${tampilTanggal}*
+📌STATUS BOT AKTIF: *wa.me/+1 (831) 353-5216*
+
+         
+╔════════════════════
+║ *ABOUT 🔰_BotAaron_🔰*
+╠════════════════════
+║   *⚠️WARNING⚠️*
+╠════════════════════
+║ *TIDAK BOLEH*
+║  *MENGGANTI INFO!!!*
+╠════════════════════
+║╭──❉ *INFO* ❉──
+║│➸ *AUTHOR*: _Aaron_
+║│➸ *DESIGNER*: _Aaron ID_
+║│➸ *YOUTUBE*: ____
+║╰───────────
+╠════════════════════
+║╭──❉ *SOSMED ADMIN* ❉──
+║│➸ *Masuk sini😙*
+║│ *https://chat.whatsapp.com/L8BfTokYeoAInrSRwucIbW*_
+║│➸ *Creator 🔰_BotAaron_🔰*
+║╰───────────
+║     *🔰_BotAaron_🔰*
+║  ▌│█║▌║▌║║▌║▌║█│▌
+║  ▌│█║▌║▌║║▌║▌║█│▌
+║     *🔰_BotAaron_🔰*
+╠════════════════════
+║ _*POWERED BY @Aaron*_
+╚════════════════════`
+}
